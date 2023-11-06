@@ -1,0 +1,13 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+my-library.ts
+ui.js
+ui.d.ts
+core.js
+core.d.ts
+docs/zh-CN/components
+docs/en-US/components
+coverage
