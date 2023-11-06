@@ -28,5 +28,9 @@ defineOptions({
 })
 </script>
 <style lang="scss">
-@import './style/button.scss';
+@import './button.scss';
+// .demo {
+//     background: red;
+//     background: url(../../assets/logo.png);
+// }
 </style>
